@@ -1,0 +1,28 @@
+.navbar-brand{
+    margin-right: 50%;
+}
+body{
+    background-color: #10305D;
+}
+.nav-item{
+    font-size: 22px;
+    margin-right: 12px;
+    margin: 2px;
+}
+.navbar ul li a{
+    color:white;
+}
+.navbar-brand{
+    color:white;
+}
+.navbar ul li a:hover{
+        background-color:#456CA2;
+        border-radius: 25%;
+}
+.ana{
+    padding: 10px;
+    background-color: #CDDEF6;
+}
+.footer{
+    background-color:#CDDEF6 ;
+}
