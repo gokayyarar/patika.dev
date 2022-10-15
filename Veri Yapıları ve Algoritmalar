@@ -1,0 +1,13 @@
+[22,27,16,2,18,6] 
+1)Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
+  1-Searching 
+ [22,27,16,2,18,6]
+ [2,27,16,22,18,6]
+ [2,6,16,22,18,27]
+ [2,6,16,18,22,27] 
+  2-Closest Pair
+ [2,6] [16,18] [22,27]
+  3-Aynı eleman kontrolü
+  Aynı eleman yok
+  4-Mode bulma
+ 2,6,16,18,22,27
